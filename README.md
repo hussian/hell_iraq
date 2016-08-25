@@ -18,7 +18,7 @@ git clone https://github.com/hussian/hell_iraq.git
 ➖➖➖➖➖➖➖➖➖➖➖
 ورهأ خلي 👇🏿 And vinegary
 ➖➖➖➖➖➖➖➖➖➖➖
-cd master
+cd hell_iraq
 ➖➖➖➖➖➖➖➖➖➖➖
 ورهأَ خلي👇🏿 And vinegary
 ➖➖➖➖➖➖➖➖➖➖➖
